@@ -1,2 +1,4 @@
 # RTSCS-Assignment
- University Assignment using C and microcontroller hardware
+ University Assignment designed to simulate a scheduled madication delivery system.
+ 
+ This assignment used C compiled to run on a custom microcontroller.
